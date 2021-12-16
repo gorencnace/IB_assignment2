@@ -1,0 +1,12 @@
+{
+    "images_path_plain_train" : "data/ears/images/train",
+    "images_path_plain" : "data/ears/images/test",
+    "annotations_path" : "data/ears/labels/test",
+    "predictions_path_plain": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\plain\\labels",
+    "predictions_path_denoise": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\denoise\\labels",
+    "predictions_path_edge": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\edge\\labels",
+    "predictions_path_gamma": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\gamma\\labels",
+    "predictions_path_histo": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\histo\\labels",
+    "predictions_path_kuwahara": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\kuwahara\\labels",
+    "predictions_path_gamma2": "C:\\Users\\Nace\\Documents\\MAG2\\IBB\\Assignment2\\detectors\\yolov5\\runs\\detect\\gamma_2\\labels"
+}
